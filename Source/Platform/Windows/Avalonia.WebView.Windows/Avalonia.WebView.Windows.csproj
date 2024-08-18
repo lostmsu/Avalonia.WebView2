@@ -7,7 +7,7 @@
 	<Import Project="$(BuildToolsDirectory)Directory.Packages.targets" />
 	
 	<PropertyGroup>
-		<PackageId>WebView.Avalonia.Windows</PackageId>
+		<PackageId>Lost.WebView.Avalonia.Windows</PackageId>
 		<Title>WebView.Avalonia.Windows</Title>
 		<!--<TargetsForTfmSpecificBuildOutput>$(TargetsForTfmSpecificBuildOutput);CopyProjectReferencesToPackage</TargetsForTfmSpecificBuildOutput>-->
 		<TargetsForTfmSpecificContentInPackage>$(TargetsForTfmSpecificContentInPackage);CopyTargetsForTfmSpecificContentInPackage</TargetsForTfmSpecificContentInPackage>

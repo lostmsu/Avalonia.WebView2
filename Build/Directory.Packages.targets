@@ -1,7 +1,7 @@
 ﻿<Project>
 	<PropertyGroup>
 		<!--Package-->
-		<PackageId Condition="'$(PackageId)' == ''">$(MSBuildProjectName)</PackageId>
+		<PackageId Condition="'$(PackageId)' == ''">Lost.$(MSBuildProjectName)</PackageId>
 		<Title  Condition="'$(Title)' == ''">$(MSBuildProjectName)</Title>
 		<WebviewVersion>11.1.0.0</WebviewVersion>
 		<WebViewPackageOutputPath>$(RepositoryDirectory)_nuget\</WebViewPackageOutputPath>

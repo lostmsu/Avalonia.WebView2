@@ -7,7 +7,7 @@
 	<Import Project="$(BuildToolsDirectory)Directory.Packages.targets" />
 
 	<PropertyGroup>
-		<PackageId>WebView.Avalonia.Desktop</PackageId>
+		<PackageId>Lost.WebView.Avalonia.Desktop</PackageId>
 		<Title>WebView.Avalonia.Desktop</Title> 
 	</PropertyGroup>
 
